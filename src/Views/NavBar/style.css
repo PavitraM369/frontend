@@ -1,0 +1,13 @@
+.nav-link{
+    color: #f8fac5 !important;
+}
+
+.navbar{
+    background-color: #70849c !important;
+}
+
+.active{
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: #f8fac5;
+}

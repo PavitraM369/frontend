@@ -1,0 +1,15 @@
+.cursor-pointer{
+  cursor: pointer;
+}
+ 
+.App{
+  font-family: 'roboto';
+}
+
+.primary-color{
+  color: #70849c !important;
+}
+
+.primary-bgcolor{
+  background-color: #f8fac5 !important;
+}
